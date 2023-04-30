@@ -1,0 +1,21 @@
+
+.foodElement{
+display: flex;
+flex-direction: column ;
+align-items: center;
+padding: 10px;
+border-color: black;
+border-width: 3px;
+border-style: solid;
+border-radius: 10px;
+background-color: bisque;
+max-width: 500px;
+min-width: 100px;
+width: min-content;
+}
+.foodElement img{
+height: 200px;
+max-width: 450px;
+border-radius: 20px;
+}
+      
